@@ -2,7 +2,7 @@
 
 I'm a dedicated and passionate **Java Developer** with over 2.6 years of experience in building and optimizing scalable, robust, and high-performing enterprise applications. My core expertise lies in developing sophisticated backend systems using **Java**, **Spring Boot**, and **Microservices** architectures, but my skill set extends to other facets of software development, cloud platforms, and automation tools.
 
-My commitment to continuous learning keeps me exploring the latest trends in software development, cloud computing, and automation. I take pride in writing clean, maintainable code and contributing to open-source projects. 
+My commitment to continuous learning keeps me exploring the latest trends in software development, cloud computing, and automation. I take pride in writing clean, maintainable code and contributing to open-source projects.
 
 ## 🌟 About Me:
 - 🌱 **Currently learning:** Advanced **Spring Boot**, **Microservices**, **Cloud Technologies**, and mastering **Data Structures & Algorithms (DSA)** to strengthen my problem-solving skills.
@@ -97,8 +97,21 @@ Here are some of my recent projects where I've applied my expertise in **Java**,
 ---
 
 ## 🔗 Let's Connect:
-- [LinkedIn](linkedin.com/in/ajay-kumar-323491180)
+- [LinkedIn](https://www.linkedin.com/in/ajay-kumar/)
 - [Twitter](https://twitter.com/ajaykumar)
 - [Personal Blog](https://ajaykumar.dev/blog)
 
 Feel free to explore my repositories and projects! I'm always open to collaborating on interesting open-source projects and expanding my knowledge in the field of backend development and cloud computing.
+
+---
+
+## 🌟 **Animated Tech Stack Showcase:**
+![Tech Stack](https://media.giphy.com/media/3o6Zt6Z59w8rUoCflm/giphy.gif)
+
+---
+
+## 💬 **Latest Blog Posts:**
+- **[Understanding Microservices Architecture](https://ajaykumar.dev/blog/microservices-architecture)**
+- **[Getting Started with Kubernetes](https://ajaykumar.dev/blog/kubernetes-introduction)**
+- **[CI/CD Pipelines with Jenkins](https://ajaykumar.dev/blog/ci-cd-jenkins)**
+
