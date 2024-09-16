@@ -97,7 +97,7 @@ Here are some of my recent projects where I've applied my expertise in **Java**,
 ---
 
 ## 🔗 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/ajay-kumar/)
+- [LinkedIn](linkedin.com/in/ajay-kumar-323491180)
 - [Twitter](https://twitter.com/ajaykumar)
 - [Personal Blog](https://ajaykumar.dev/blog)
 
